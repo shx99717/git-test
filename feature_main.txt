@@ -1,3 +1,4 @@
 # this is the main feature development
 # develop in master
 # further development in master
+# magic in master
